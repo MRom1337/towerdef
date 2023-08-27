@@ -1,0 +1,4 @@
+name: towerdef
+version: '${project.version}'
+main: mrom.ua.towerdef.Towerdef
+api-version: '1.19'
